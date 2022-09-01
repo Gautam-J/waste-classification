@@ -1,3 +1,7 @@
+# FOR TEMP PURPOSES ONLY
+
+# CREATE NEW REPO DURING HACKATHON
+
 Classification of waste using MobileNetV3 small, fine-tuned on imagenet weights.
 
 7 Categories:
@@ -13,6 +17,7 @@ Classification of waste using MobileNetV3 small, fine-tuned on imagenet weights.
 Model exposed through API written in Flask.
 
 POST - `/predict`
+
 Body
 
 ```json
