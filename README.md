@@ -12,6 +12,11 @@ Classification of waste using MobileNetV3 small, fine-tuned on imagenet weights.
 
 Model exposed through API written in Flask.
 
+## How to run
+
+- `pip install -r requirements.txt`
+- `python app.py`
+
 POST - `/predict`
 
 Body
